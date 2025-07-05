@@ -15,6 +15,7 @@ export default {
         'raw-white': '#fafafa',
         'raw-gray': '#1a1a1a',
         'raw-accent': '#ff6b35',
+        'border': 'rgba(255, 255, 255, 0.1)',
       },
       animation: {
         'fade-in': 'fadeIn 0.8s ease-out',
